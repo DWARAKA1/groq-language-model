@@ -1,0 +1,15 @@
+[project]
+name = "agno19"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "agno>=1.4.4",
+    "anthropic>=0.50.0",
+    "groq>=0.24.0",
+    "mcp>=1.7.1",
+    "python-dotenv>=1.1.0",
+    "streamlit>=1.45.0",
+    "yfinance>=0.2.58",
+]

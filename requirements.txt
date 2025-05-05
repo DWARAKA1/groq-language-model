@@ -1,0 +1,6 @@
+agno
+anthropic
+yfinance 
+python-dotenv
+groq
+streamlit
